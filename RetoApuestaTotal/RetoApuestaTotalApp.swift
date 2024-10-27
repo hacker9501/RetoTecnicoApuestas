@@ -11,7 +11,7 @@ import SwiftUI
 struct RetoApuestaTotalApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
